@@ -27,4 +27,3 @@ class Solution:
                 day += 1
 
         return count
-        
